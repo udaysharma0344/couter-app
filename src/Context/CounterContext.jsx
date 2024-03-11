@@ -10,7 +10,7 @@ const [count, setCount] = useState(0);
 const increment = () =>{
     setCount((prev) => {
         return prev + 1;
-    })hari om 
+    })
 }
 
 const decrement = () => {
