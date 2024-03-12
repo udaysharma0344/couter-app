@@ -9,6 +9,6 @@ const CounterControls = () => {
       <button onClick={decrement}> - </button>
     </div>
   ) 
-}
+}uday 
 
 export default CounterControls
